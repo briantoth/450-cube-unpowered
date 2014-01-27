@@ -121,7 +121,6 @@
 1 Sower of Temptation
 1 Cytoplast Manipulator
 1 Rite of Replication
-1 Spell Burst
 
 //5cc
 1 Mulldrifter
@@ -148,7 +147,6 @@
 //2cc
 1 Counterspell
 1 Mana Leak
-1 Complicate
 1 Memory Lapse
 1 Remand
 1 Telling Time
@@ -161,6 +159,7 @@
 1 Think Twice
 
 //3cc
+1 Complicate
 1 Azorius Cluestone
 1 Dimir Keyrune
 1 Exclude
@@ -182,6 +181,9 @@
 1 Draining Whelk
 1 Inundate
 
+//Xcc
+1 Spell Burst
+
 //Lands
 
 1 Vivid Creek
@@ -196,7 +198,7 @@
 1 Vampire Lacerator
 1 Vampire Lacerator
 1 Entrails Feaster
-1 Festering goblin
+1 Festering Goblin
 1 Plagued Rusalka
 1 Thrull Parasite
 
@@ -272,6 +274,8 @@
 
 //5cc
 1 Liliana Vess
+
+//Xcc
 1 Profane Command
 
 //Lands
@@ -330,6 +334,7 @@
 1 Thunderous Wrath
 1 Lightning Bolt
 1 Burst Lightning
+1 Firebolt
 1 Genju of the Spires
 1 Reckless Charge
 1 Rift Bolt
@@ -360,13 +365,15 @@
 1 Flame Javelin
 
 //5cc
-1 Blazing Shoal
 1 Chandra Nalaar
 1 Chandra Nalaar
-1 Earthquake
 
 //7cc
 1 Form of the Dragon
+
+//Xcc
+1 Blazing Shoal
+1 Earthquake
 
 //Green
 
@@ -375,7 +382,6 @@
 //1cc
 1 Llanowar Elves
 1 Fyndhorn Elves
-1 Birds of Paradise
 1 Birds of Paradise
 1 Birds of Paradise
 1 Joraga Treespeaker
@@ -559,6 +565,7 @@
 1 Sisters of Stone Death
 1 Golgari Charm
 1 Putrefy
+1 Golgari Rot Farm
 1 Golgari Rot Farm
 1 Svogthos, the Restless Tomb
 1 Overgrown Tomb
