@@ -1,0 +1,640 @@
+//White
+
+//Creatures
+
+//1cc
+1 Elite Vanguard
+1 Dryad Militant
+1 Devoted Caretaker
+1 Soltari Foot Soldier
+1 Goldmeadow Harrier
+1 Student of Warfare
+1 Dryad Militant
+
+//2cc
+1 Stormfront Pegasus
+1 Mistral Charger
+1 Soltari Trooper
+1 Daring Skyjek
+1 Syndic of Tithes
+1 War Priest of Thune
+1 Nearheath Pilgrim
+1 Fencing Ace
+1 Wall of Omens
+1 Knight of Meadowgrain
+1 Whipcorder
+1 Imposing Sovereign
+1 Soltari Priest
+
+//3cc
+1 Banisher Priest
+1 Aven Riftwatcher
+1 Field Marshal
+1 Veteran Swordsmith
+1 Lieutenant Kirtar
+1 Knight of Dawn
+1 Mystic Crusader
+
+//4cc
+1 Linvala, Keeper of Silence
+1 Calciderm
+1 Angel of Jubilation
+1 Spectral Procession
+
+//5cc
+1 Reveillark
+1 Archon of Justice
+1 Cloudgoat Ranger
+
+//6cc
+1 Deathless Angel
+1 Crovax, Ascendant Hero
+
+//7cc
+1 Angel of Serenity
+
+//Spells
+
+//1cc
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Path to Exile
+1 Condemn
+1 Weathered Wayfarer
+
+//2cc
+1 Disenchant
+1 Seal of Cleansing
+1 Shining Shoal
+1 Journey to Nowhere
+1 Temporal Isolation
+1 Honor of the Pure
+
+//3cc
+1 Oblivion Ring
+1 Glorious Anthem
+1 Proclamation of Rebirth
+
+//4cc
+1 Faith's Fetters
+1 Wrath of God
+1 Wrath of God
+1 Hour of Reckoning
+1 Ajani Goldmane
+1 Ajani Goldmane
+
+//5cc
+1 Gideon Jura
+1 Gideon Jura
+1 Hallowed Burial
+
+//Lands
+
+1 Forbidding Watchtower
+1 Vivid Meadow
+
+//Blue
+
+//Creatures
+
+//1cc
+
+//2cc
+Hada Spy Patrol
+Looter il-Kor
+Genju of the Falls
+Voidmage Prodigy
+Errant Ephermeron
+
+//3cc
+Sprite noble
+cloud Elemental
+Sea Gate Oracle
+Aether Adept
+Aether Adept
+Shaper Parasite
+Spiketail Drakeling
+
+//4cc
+Soratami Savant
+Knacksaw Clique
+Sower of Temptation
+Cytoplast Manipulator
+Rite of Replication
+Spell Burst
+
+//5cc
+Mulldrifter
+Mind Control
+Sphinx of Lost Truths
+Sphinx of Magosi
+Aeon Chronicler
+Body Double
+Teferi, Mage of Zhalfir
+
+//6cc
+Frost Titan
+
+//Spells
+
+//1cc
+Force Spike
+Mystical Tutor
+Brainstorm
+Ponder
+Preordain
+Ancestral Vision
+
+//2cc
+Counterspell
+Mana Leak
+Complicate
+Memory Lapse
+Remand
+Telling Time
+Counterspell
+Power Sink
+Azorius Signet
+Dimir Signet
+Izzet Signet
+Simic Signet
+Think Twice
+
+//3cc
+Azorius Cluestone
+Dimir Keyrune
+Exclude
+Compulsive Research
+Threads of Disloyalty
+Jace Beleren
+
+//4cc
+Last Thoughts
+Concentrate
+Jace, Architect of Thought
+Reings of Power
+Cryptic Command
+
+//5cc
+Fervent Denial
+
+//6cc
+Draining Whelk
+Inundate
+
+//Lands
+
+Vivid Creek
+Faerie Conclave
+Shelldock Isle
+
+//Black
+
+//Creatures
+
+//1cc
+Vampire Lacerator
+Vampire Lacerator
+Entrails Feaster
+Festering goblin
+Plagued Rusalka
+Thrull Parasite
+
+//2cc
+Basilica Screecher
+Dauthi Horror
+Pack Rat
+Thrill-Kill Assassin
+Oona's Prowler
+Grim Roustabout
+Nantuko Shade
+Bloodghast
+Vampire Hexmange
+
+//3cc
+Dauthi Marauder
+Bone Shredder
+Nirkana Cutthroat
+Liliana's Specter
+Vampire Nighthawk
+Arrogant Bloodlord
+
+//4cc
+Nightshade Assassin
+Mirri the Cursed
+Faceless Butcher
+Nekrataal
+Grinning Demo
+Desecration Demon
+
+//5cc
+Shriekmaw
+Bloodlord of Vaasgoth
+Soul Collector
+Sengir Nosferatu
+Visara the Dreadful
+Dread
+
+//Spells
+
+//1cc
+Dark Ritual
+Vendetta
+Thoughseize
+Inquisition of Kozilek
+Duress
+Duress
+
+//2cc
+Exhume
+Terror
+Doom Blade
+Terror
+Chainer's Edict
+Sign in Blood
+Shallow Grave
+Bitterblossom
+
+//3cc
+Stupor
+Ashen Powder
+Phyrexian Arena
+Sudden Spoiling
+
+//4cc
+Snuff Out
+Diabolic Tutor
+Consuming Vapors
+Dread Return
+Pestilence
+Damnation
+Persecute
+
+//5cc
+Liliana Vess
+Profane Command
+
+//Lands
+
+Cabal Coffers
+
+//Red
+
+//Creatures
+
+//1cc
+Goblin Guide
+Frenzied Goblin
+Scorched Rusalka
+Godo's Irregulars
+Bloodhall Ooze
+Scorched Rusalka
+Mogg Sentry
+
+//2cc
+Emberwhilde Augur
+Keldon Marauders
+Stormblood Berserker
+Thick-Skinned Goblin
+Firefist Striker
+Tin Street Hooligan
+Gore-House Chainwalker
+Young Pyromancer
+Ash Zealot
+
+//3cc
+Guttersnipe
+Splatter Thug
+Zo-Zu the Punisher
+Ghitu Slinger
+
+//4cc
+Flametongue Kavu
+Avalanche Riders
+Cyclops Gladiator
+Lord of Shatterskull Pass
+Bloodfray Giant
+
+//5cc
+Magma Phoenix
+Magmaw
+
+//6cc
+Conquering Manticore
+Flameblast Dragon
+Inferno Titan
+
+//Spells
+
+//1cc
+Thunderous Wrath
+Lightning Bolt
+Burst Lightning
+Genju of the Spires
+Reckless Charge
+Rift Bolt
+
+//2cc
+Incinerate
+Searing Spear
+Volcanic Hammer
+Smash to Smithereens
+Arc Trail
+Pyroclasm
+Volcanic Fallout
+Mizzium Mortars
+Searing Blaze
+Tribal Flames
+Rough/Tumble
+
+//3cc
+Char
+Staggershock
+Browbeat
+Arc Lightning
+Flames of the Firebrand
+Act of Treason
+Molten Rain
+
+//4cc
+Flame Javelin
+
+//5cc
+Blazing Shoal
+Chandra Nalaar
+Chandra Nalaar
+Earthquake
+
+//7cc
+Form of the Dragon
+
+//Green
+
+//Creatures
+
+//1cc
+Llanowar Elves
+Fyndhorn Elves
+Birds of Paradise
+Birds of Paradise
+Birds of Paradise
+Joraga Treespeaker
+Elvish Mystic
+Elves of Deep Shadow
+Wasteland Viper
+
+//2cc
+Kazandu Tuskcaller
+Mire Boa
+River Boa
+Wild Mongrel
+Vinelasher Kudzu
+Fauna Shaman
+Bloom Tender
+Devoted Druid
+Sakura-Tribe Elder
+Vine Trellis
+Gatecreeper Vine
+Gaea's Herald
+Silhana Ledgewalker
+
+//3cc
+Loaming Shaman
+Viridian Shaman
+Ohran Viper
+Yavimaya Elder
+Carven Caryatid
+Caller of the Claw
+Call of the Herd
+
+//4cc
+Brooding Saurian
+Vengevine
+Blastoderm
+Timbermare
+Iwamori of the Open Fist
+Phantom Centaur
+Deadbridge Goliath
+Forgotten Ancient
+
+//5cc
+Hystrodon
+Golgari Grave-Troll
+Acidic Slime
+Spectral Force
+Mitotic Slime
+Gigapede
+Mycoloth
+
+//6cc
+Rampaging Baloths
+Avenger of Zendikar
+
+//7cc
+Giant Adephage
+
+//Spells
+
+//1cc
+Worldly Tutor
+Nature's Claim
+
+//2cc
+Edge of Autumn
+Life from the Loam
+Regrowth
+Search for Tomorrow
+
+//3cc
+Realms Uncharted
+Krosan Tusker
+Harrow
+Kodama's Reach
+
+//4cc
+Garruk Wildspeaker
+Summoner's Pact
+Garruk Wildspeaker
+
+//Lands
+
+Oran-Rief, the Vastwood
+Tranquil Thicket
+Vivid Grove
+
+//Multicolored
+
+//UW
+Deputy of Acquittals
+Sygg, River Guide
+Lyev Skynight
+Godhead of Awe
+Righteous Authority
+Dovescape
+Azorius Chancery
+Nimbus Maze
+Adarkar Wastes
+Hallowed Fountain
+
+//UB
+Dimir Doppleganger
+Bane Alley Broker
+Sphinx Summoner
+Dinrova Horror
+Mask of Riddles
+Soul Ransom
+Dimir Aqueduct
+Drowned Catacomb
+River of Tears
+Temple of Deceit
+
+//BR
+Rakdow Cackler
+Rix Maadi Guildmage
+Lyzolda, the Blood Witch
+Pyre Zombie
+Rakdow, Lord of Riots
+Murderous Redcap
+Dreadbore
+Void
+Graven Cairns
+Lavaclaw Reaches
+Sulfurous Springs
+Blood Crypt
+
+//RG
+Scab-Clan Mauler
+Skarrg Guildmage
+Boggart Ram-Gang
+Giant Solifuge
+Firespout
+Clan Defiance
+Karplusan Forest
+Grove of the Burnwillows
+Karplusan Forest
+Stomping Ground
+
+//WG
+Vitu-Ghazi Guildmage
+Knotvine Paladin
+Knight of the Reliquary
+Kitchen Finks
+Phantom Nishoba
+Call of the Conclave
+Sundering Growth
+Armadillo Cloak
+Brushland
+Horizon Canopy
+Krosan Verge
+Sunpetal Grove
+
+//BW
+Sin Collector
+Kingpin's Pet
+Ghost Council of Orzhova
+Teysa, Envoy of Ghosts
+One Thousand Lashes
+Debtors' Knell
+Orzhov Basilica
+Caves of Koilos
+Marsh Flats
+Godless Shrine
+
+//UR
+Frostburn Weird
+Nivix Guildmage
+Dominus of Fealty
+Niv-Mizzet, Dracogenius
+Izzet Charm
+Teleportal
+Izzet Boilerworks
+Izzet Boilerworks
+Shivan Reef
+Steam Vents
+
+//BG
+Korozda Guildmage
+Dreg Mangler
+Grave-Shell Scarab
+Sisters of Stone Death
+Golgari Charm
+Putrefy
+Golgari Rot Farm
+Svogthos, the Restless Tomb
+Overgrown Tomb
+
+//RW
+Truefire Paladin
+Wojek Halberdiers
+Boros Reckoner
+Fireman Angel
+Lightning Helix
+Ajani Vengeant
+Boros Garrison
+Battlefield Forge
+Sacred Foundry
+Sacred Foundry
+
+//UG
+Trygon Predator
+Plaxcaster Frogling
+Mystic Snake
+Momir Vig, Simic Visionary
+Cytoshape
+Biomass Mutation
+Simic Growth Chamber
+Simic Growth Chamber
+Misty Rainforest
+Simic Guildgate
+
+
+//Colorless
+
+//Creatures
+
+Perilous Myr
+Bottle Gnomes
+Sickleslicer
+Etched Oracle
+Precursor Golem
+Clockwork Hydra
+Stuff Doll
+Wurmcoil Engine
+Platinum Angel
+
+//Equipment
+
+Trusty Machete
+Blazing Torch
+Thornbite Staff
+Loxodon Warhammer
+Quietus Spike
+Ronin Warclub
+Tatsumasa, the Dragon's Fang
+
+//Utilities
+
+Pithing Needle
+Black Vise
+Sensei's Divining Top
+Culling Scales
+Elkin Bottle
+Mimic Vat
+Veilstone Amulet
+Grafted Skullcap
+Angelheart Vial
+
+//Mana, Fixing, and Lands
+Expedition Map
+Chromatic Star
+Prismatic Lens
+Mind Stone
+Molten Slagheap
+Shimmering Grotto
+Terramorphic Expanse
+Terramorphic Expanse
+Dread Statuary
+Ghost Quarter
+Desert
+Gemstone Mine
+Stalking Stones
