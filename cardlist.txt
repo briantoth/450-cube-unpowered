@@ -104,11 +104,11 @@
 1 Looter il-Kor
 1 Genju of the Falls
 1 Voidmage Prodigy
-1 Errant Ephermeron
+1 Errant Ephemeron
 
 //3cc
 1 Sprite noble
-1 cloud Elemental
+1 Cloud Elemental
 1 Sea Gate Oracle
 1 Aether Adept
 1 Aether Adept
@@ -172,7 +172,7 @@
 1 Last Thoughts
 1 Concentrate
 1 Jace, Architect of Thought
-1 Reings of Power
+1 Reins of Power
 1 Cryptic Command
 
 //5cc
@@ -209,7 +209,7 @@
 1 Grim Roustabout
 1 Nantuko Shade
 1 Bloodghast
-1 Vampire Hexmange
+1 Vampire Hexmage
 
 //3cc
 1 Dauthi Marauder
@@ -224,7 +224,7 @@
 1 Mirri the Cursed
 1 Faceless Butcher
 1 Nekrataal
-1 Grinning Demo
+1 Grinning Demon
 1 Desecration Demon
 
 //5cc
@@ -240,7 +240,7 @@
 //1cc
 1 Dark Ritual
 1 Vendetta
-1 Thoughseize
+1 Thoughtseize
 1 Inquisition of Kozilek
 1 Duress
 1 Duress
@@ -292,7 +292,7 @@
 1 Mogg Sentry
 
 //2cc
-1 Emberwhilde Augur
+1 Emberwilde Augur
 1 Keldon Marauders
 1 Stormblood Berserker
 1 Thick-Skinned Goblin
@@ -345,7 +345,7 @@
 1 Mizzium Mortars
 1 Searing Blaze
 1 Tribal Flames
-1 Rough/Tumble
+1 Rough // Tumble
 
 //3cc
 1 Char
@@ -467,7 +467,7 @@
 //UW
 1 Deputy of Acquittals
 1 Sygg, River Guide
-1 Lyev Skynight
+1 Lyev Skyknight
 1 Godhead of Awe
 1 Righteous Authority
 1 Dovescape
@@ -477,7 +477,7 @@
 1 Hallowed Fountain
 
 //UB
-1 Dimir Doppleganger
+1 Dimir Doppelganger
 1 Bane Alley Broker
 1 Sphinx Summoner
 1 Dinrova Horror
@@ -489,11 +489,11 @@
 1 Temple of Deceit
 
 //BR
-1 Rakdow Cackler
+1 Rakdos Cackler
 1 Rix Maadi Guildmage
 1 Lyzolda, the Blood Witch
 1 Pyre Zombie
-1 Rakdow, Lord of Riots
+1 Rakdos, Lord of Riots
 1 Murderous Redcap
 1 Dreadbore
 1 Void
@@ -567,7 +567,7 @@
 1 Truefire Paladin
 1 Wojek Halberdiers
 1 Boros Reckoner
-1 Fireman Angel
+1 Firemane Angel
 1 Lightning Helix
 1 Ajani Vengeant
 1 Boros Garrison
@@ -598,7 +598,7 @@
 1 Etched Oracle
 1 Precursor Golem
 1 Clockwork Hydra
-1 Stuff Doll
+1 Stuffy Doll
 1 Wurmcoil Engine
 1 Platinum Angel
 
