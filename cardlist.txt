@@ -270,10 +270,10 @@
 1 Pestilence
 1 Damnation
 1 Persecute
-1 Whip of Erebos
 
 //5cc
 1 Liliana Vess
+1 Rescue from the Underworld
 
 //Xcc
 1 Profane Command
