@@ -538,7 +538,7 @@
 1 Sin Collector
 1 Kingpin's Pet
 1 Ghost Council of Orzhova
-1 Ashen Rider
+1 Alms Beast
 1 One Thousand Lashes
 1 Debtors' Knell
 1 Orzhov Basilica
