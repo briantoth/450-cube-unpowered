@@ -9,7 +9,7 @@
 1 Soltari Foot Soldier
 1 Goldmeadow Harrier
 1 Student of Warfare
-1 Dryad Militant
+1 Savannah Lions
 
 //2cc
 1 Stormfront Pegasus
