@@ -555,7 +555,7 @@
 1 Steam Augury
 1 Izzet Boilerworks
 1 Izzet Boilerworks
-1 Shivan Reef
+1 Temple of Epiphany
 1 Steam Vents
 
 //BG
@@ -591,7 +591,7 @@
 1 Biomass Mutation
 1 Simic Growth Chamber
 1 Temple of Mystery
-1 Misty Rainforest
+1 Temple of Mystery
 1 Simic Guildgate
 
 //Colorless
