@@ -303,7 +303,7 @@
 1 Firefist Striker
 1 Tin Street Hooligan
 1 Gore-House Chainwalker
-1 Young Pyromancer
+1 Wind-Scarred Crag
 1 Ash Zealot
 
 //3cc
@@ -579,7 +579,7 @@
 1 Ajani Vengeant
 1 Boros Garrison
 1 Battlefield Forge
-1 Sacred Foundry
+1 Wind-Scarred Crag
 1 Temple of Triumph
 
 //UG
