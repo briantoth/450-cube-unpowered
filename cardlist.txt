@@ -482,43 +482,29 @@
 1 New Prahv Guildmage
 1 Nimbus Maze
 
-//UB
-1 Bane Alley Broker
-1 Dimir Aqueduct
-1 Dimir Doppelganger
-1 Drowned Catacomb
-1 Psychic Intrusion
-1 River of Tears
-1 Shipwreck Singer
-1 Soul Ransom
-1 Sphinx Summoner
-1 Temple of Deceit
+//WB
+1 Alms Beast
+1 Debtors' Knell
+1 Ghost Council of Orzhova
+1 Godless Shrine
+1 Kingpin's Pet
+1 Marsh Flats
+1 One Thousand Lashes
+1 Orzhov Basilica
+1 Sin Collector
+1 Temple of Silence
 
-//BR
-1 Blood Crypt
-1 Dreadbore
-1 Graven Cairns
-1 Lavaclaw Reaches
-1 Lyzolda, the Blood Witch
-1 Murderous Redcap
-1 Rakdos Cackler
-1 Rakdos, Lord of Riots
-1 Rix Maadi Guildmage
-1 Sulfurous Springs
-1 Tymaret, the Murder King
-1 Void
-
-//RG
-1 Boggart Ram-Gang
-1 Clan Defiance
-1 Destructive Revelry
-1 Giant Solifuge
-1 Grove of the Burnwillows
-1 Karplusan Forest
-1 Scab-Clan Mauler
-1 Skarrg Guildmage
-1 Stomping Ground
-1 Temple of Abandon
+//WR
+1 Ajani Vengeant
+1 Akroan Hoplite
+1 Anax and Cymede
+1 Battlefield Forge
+1 Boros Charm
+1 Boros Garrison
+1 Boros Reckoner
+1 Lightning Helix
+1 Temple of Triumph
+1 Wind-Scarred Crag
 
 //WG
 1 Armadillo Cloak
@@ -534,17 +520,17 @@
 1 Sunpetal Grove
 1 Vitu-Ghazi Guildmage
 
-//BW
-1 Alms Beast
-1 Debtors' Knell
-1 Ghost Council of Orzhova
-1 Godless Shrine
-1 Kingpin's Pet
-1 Marsh Flats
-1 One Thousand Lashes
-1 Orzhov Basilica
-1 Sin Collector
-1 Temple of Silence
+//UB
+1 Bane Alley Broker
+1 Dimir Aqueduct
+1 Dimir Doppelganger
+1 Drowned Catacomb
+1 Psychic Intrusion
+1 River of Tears
+1 Shipwreck Singer
+1 Soul Ransom
+1 Sphinx Summoner
+1 Temple of Deceit
 
 //UR
 1 Dominus of Fealty
@@ -558,6 +544,32 @@
 1 Steam Vents
 1 Temple of Epiphany
 
+//UG
+1 Biomass Mutation
+1 Krasis Incubation
+1 Mystic Snake
+1 Plaxcaster Frogling
+1 Prophet of Kruphix
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Temple of Mystery
+1 Temple of Mystery
+1 Trygon Predator
+
+//BR
+1 Blood Crypt
+1 Dreadbore
+1 Graven Cairns
+1 Lavaclaw Reaches
+1 Lyzolda, the Blood Witch
+1 Murderous Redcap
+1 Rakdos Cackler
+1 Rakdos, Lord of Riots
+1 Rix Maadi Guildmage
+1 Sulfurous Springs
+1 Tymaret, the Murder King
+1 Void
+
 //BG
 1 Dreg Mangler
 1 Golgari Charm
@@ -570,29 +582,17 @@
 1 Sisters of Stone Death
 1 Svogthos, the Restless Tomb
 
-//RW
-1 Ajani Vengeant
-1 Akroan Hoplite
-1 Anax and Cymede
-1 Battlefield Forge
-1 Boros Charm
-1 Boros Garrison
-1 Boros Reckoner
-1 Lightning Helix
-1 Temple of Triumph
-1 Wind-Scarred Crag
-
-//UG
-1 Biomass Mutation
-1 Krasis Incubation
-1 Mystic Snake
-1 Plaxcaster Frogling
-1 Prophet of Kruphix
-1 Simic Growth Chamber
-1 Simic Guildgate
-1 Temple of Mystery
-1 Temple of Mystery
-1 Trygon Predator
+//RG
+1 Boggart Ram-Gang
+1 Clan Defiance
+1 Destructive Revelry
+1 Giant Solifuge
+1 Grove of the Burnwillows
+1 Karplusan Forest
+1 Scab-Clan Mauler
+1 Skarrg Guildmage
+1 Stomping Ground
+1 Temple of Abandon
 
 //Colorless
 
