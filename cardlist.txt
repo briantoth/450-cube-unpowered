@@ -3,49 +3,49 @@
 //Creatures
 
 //1cc
-1 Elite Vanguard
 1 Dryad Militant
+1 Elite Vanguard
+1 Goldmeadow Harrier
+1 Savannah Lions
 1 Soldier of the Pantheon
 1 Soltari Foot Soldier
-1 Goldmeadow Harrier
 1 Student of Warfare
-1 Savannah Lions
 
 //2cc
-1 Stormfront Pegasus
-1 Mistral Charger
-1 Soltari Trooper
 1 Daring Skyjek
-1 Syndic of Tithes
-1 War Priest of Thune
-1 Nearheath Pilgrim
 1 Fencing Ace
-1 Wall of Omens
-1 Knight of Meadowgrain
-1 Whipcorder
 1 Imposing Sovereign
+1 Knight of Meadowgrain
+1 Mistral Charger
+1 Nearheath Pilgrim
 1 Soltari Priest
+1 Soltari Trooper
+1 Stormfront Pegasus
+1 Syndic of Tithes
+1 Wall of Omens
+1 War Priest of Thune
+1 Whipcorder
 
 //3cc
-1 Banisher Priest
 1 Aven Riftwatcher
-1 Field Marshal
-1 Veteran Swordsmith
-1 Lieutenant Kirtar
+1 Banisher Priest
 1 Fabled Hero
+1 Field Marshal
+1 Lieutenant Kirtar
 1 Mystic Crusader
+1 Veteran Swordsmith
 
 //4cc
-1 Linvala, Keeper of Silence
 1 Calciderm
 1 Hundred-Handed One
+1 Linvala, Keeper of Silence
 1 Spectral Procession
 
 //5cc
-1 Reveillark
 1 Archon of Justice
-1 Cloudgoat Ranger
 1 Celestial Archon
+1 Cloudgoat Ranger
+1 Reveillark
 
 //6cc
 1 Deathless Angel
@@ -56,31 +56,31 @@
 //Spells
 
 //1cc
-1 Gods Willing
-1 Swords to Plowshares
-1 Path to Exile
 1 Condemn
+1 Gods Willing
+1 Path to Exile
+1 Swords to Plowshares
 1 Weathered Wayfarer
 
 //2cc
 1 Disenchant
+1 Journey to Nowhere
 1 Seal of Cleansing
 1 Shining Shoal
-1 Journey to Nowhere
 1 Temporal Isolation
 
 //3cc
-1 Spear of Heliod
-1 Oblivion Ring
-1 Glorious Anthem
 1 Dauntless Onslaught
+1 Glorious Anthem
+1 Oblivion Ring
+1 Spear of Heliod
 
 //4cc
-1 Faith's Fetters
-1 Wrath of God
-1 Wrath of God
-1 Heliod, God of the Sun
 1 Ajani Goldmane
+1 Faith's Fetters
+1 Heliod, God of the Sun
+1 Wrath of God
+1 Wrath of God
 
 //5cc
 1 Gideon Jura
@@ -102,35 +102,35 @@
 //1cc
 
 //2cc
+1 Errant Ephemeron
 1 Hada Spy Patrol
 1 Looter il-Kor
 1 Omenspeaker
 1 Voidmage Prodigy
-1 Errant Ephemeron
 
 //3cc
-1 Wall of Frost
+1 Aether Adept
+1 Aether Adept
 1 Cloud Elemental
+1 Nimbus Naiad
 1 Sea Gate Oracle
-1 Aether Adept
-1 Aether Adept
 1 Shaper Parasite
 1 Spiketail Drakeling
-1 Nimbus Naiad
+1 Wall of Frost
 
 //4cc
-1 Thassa's Emissary
-1 Sower of Temptation
 1 Cytoplast Manipulator
 1 Rite of Replication
+1 Sower of Temptation
+1 Thassa's Emissary
 
 //5cc
-1 Mulldrifter
-1 Mind Control
-1 Sphinx of Lost Truths
-1 Prognostic Sphinx
 1 Aeon Chronicler
 1 Body Double
+1 Mind Control
+1 Mulldrifter
+1 Prognostic Sphinx
+1 Sphinx of Lost Truths
 1 Teferi, Mage of Zhalfir
 
 //6cc
@@ -139,43 +139,43 @@
 //Spells
 
 //1cc
+1 Ancestral Vision
+1 Brainstorm
 1 Force Spike
 1 Mystical Tutor
-1 Brainstorm
 1 Ponder
 1 Preordain
-1 Ancestral Vision
 1 Spell Snare
 
 //2cc
+1 Azorius Signet
+1 Counterspell
+1 Dimir Signet
+1 Izzet Signet
 1 Mana Leak
 1 Memory Lapse
 1 Remand
-1 Telling Time
-1 Counterspell
-1 Azorius Signet
-1 Dimir Signet
-1 Izzet Signet
 1 Simic Signet
+1 Telling Time
 1 Think Twice
 
 //3cc
-1 Dissolve
-1 Complicate
 1 Azorius Cluestone
-1 Dimir Keyrune
-1 Exclude
+1 Complicate
 1 Compulsive Research
-1 Threads of Disloyalty
-1 Jace Beleren
+1 Dimir Keyrune
+1 Dissolve
 1 Divination
+1 Exclude
+1 Jace Beleren
+1 Threads of Disloyalty
 
 //4cc
+1 Aetherize
 1 Concentrate
+1 Cryptic Command
 1 Jace, Architect of Thought
 1 Thassa, God of the Sea
-1 Cryptic Command
-1 Aetherize
 
 //6cc
 1 Draining Whelk
@@ -186,48 +186,48 @@
 
 //Lands
 
-1 Vivid Creek
 1 Faerie Conclave
 1 Shelldock Isle
+1 Vivid Creek
 
 //Black
 
 //Creatures
 
 //1cc
-1 Vampire Lacerator
-1 Vampire Lacerator
-1 Tormented Hero
 1 Festering Goblin
 1 Plagued Rusalka
 1 Thrull Parasite
+1 Tormented Hero
+1 Vampire Lacerator
+1 Vampire Lacerator
 
 //2cc
 1 Baleful Eidolon
+1 Bloodghast
 1 Dauthi Horror
-1 Pack Rat
-1 Thrill-Kill Assassin
-1 Oona's Prowler
 1 Grim Roustabout
 1 Nantuko Shade
-1 Bloodghast
+1 Oona's Prowler
+1 Pack Rat
+1 Thrill-Kill Assassin
 1 Vampire Hexmage
 
 //3cc
-1 Stinkweed Imp
-1 Bone Shredder
-1 Nirkana Cutthroat
-1 Liliana's Specter
-1 Vampire Nighthawk
-1 Arrogant Bloodlord
 1 Agent of the Fates
+1 Arrogant Bloodlord
+1 Bone Shredder
+1 Liliana's Specter
+1 Nirkana Cutthroat
+1 Stinkweed Imp
+1 Vampire Nighthawk
 
 //4cc
-1 Mirri the Cursed
-1 Faceless Butcher
-1 Nekrataal
-1 Grinning Demon
 1 Desecration Demon
+1 Faceless Butcher
+1 Grinning Demon
+1 Mirri the Cursed
+1 Nekrataal
 
 //5cc
 1 Shriekmaw
@@ -240,36 +240,36 @@
 //Spells
 
 //1cc
-1 Dark Ritual
-1 Vendetta
-1 Thoughtseize
-1 Inquisition of Kozilek
-1 Duress
 1 Boon of Erebos
+1 Dark Ritual
+1 Duress
+1 Inquisition of Kozilek
+1 Thoughtseize
+1 Vendetta
 
 //2cc
-1 Exhume
-1 Terror
-1 Doom Blade
-1 Chainer's Edict
-1 Sign in Blood
-1 Shallow Grave
 1 Bitterblossom
+1 Chainer's Edict
+1 Doom Blade
+1 Exhume
+1 Shallow Grave
+1 Sign in Blood
+1 Terror
 
 //3cc
-1 Hero's Downfall
 1 Buried Alive
+1 Hero's Downfall
 1 Phyrexian Arena
 1 Sudden Spoiling
 
 //4cc
-1 Snuff Out
-1 Diabolic Tutor
 1 Consuming Vapors
-1 Dread Return
-1 Pestilence
 1 Damnation
+1 Diabolic Tutor
+1 Dread Return
 1 Persecute
+1 Pestilence
+1 Snuff Out
 
 //5cc
 1 Liliana Vess
@@ -287,38 +287,38 @@
 //Creatures
 
 //1cc
-1 Goblin Guide
-1 Frenzied Goblin
-1 Scorched Rusalka
-1 Godo's Irregulars
 1 Bloodhall Ooze
 1 Firedrinker Satyr
-1 Mogg Sentry
+1 Frenzied Goblin
+1 Goblin Guide
+1 Godo's Irregulars
 1 Greater Gargadon
+1 Mogg Sentry
+1 Scorched Rusalka
 
 //2cc
-1 Keldon Marauders
-1 Stormblood Berserker
+1 Ash Zealot
 1 Deathbellow Raider
 1 Firefist Striker
-1 Tin Street Hooligan
 1 Gore-House Chainwalker
+1 Keldon Marauders
+1 Stormblood Berserker
+1 Tin Street Hooligan
 1 Wind-Scarred Crag
-1 Ash Zealot
 
 //3cc
+1 Ghitu Slinger
 1 Guttersnipe
 1 Rageblood Shaman
 1 Zo-Zu the Punisher
-1 Ghitu Slinger
 
 //4cc
-1 Flametongue Kavu
 1 Avalanche Riders
-1 Ember Swallower
-1 Lord of Shatterskull Pass
 1 Bloodfray Giant
+1 Ember Swallower
 1 Fanatic of Mogis
+1 Flametongue Kavu
+1 Lord of Shatterskull Pass
 
 //5cc
 1 Magma Phoenix
@@ -332,34 +332,34 @@
 //Spells
 
 //1cc
-1 Thunderous Wrath
-1 Lightning Bolt
 1 Burst Lightning
 1 Firebolt
 1 Genju of the Spires
+1 Lightning Bolt
 1 Reckless Charge
 1 Rift Bolt
+1 Thunderous Wrath
 
 //2cc
-1 Incinerate
-1 Searing Spear
-1 Lightning Strike
-1 Smash to Smithereens
-1 Arc Trail
-1 Pyroclasm
 1 Anger of the Gods
-1 Mizzium Mortars
-1 Searing Blaze
+1 Arc Trail
+1 Incinerate
+1 Lightning Strike
 1 Magma Jet
+1 Mizzium Mortars
+1 Pyroclasm
+1 Searing Blaze
+1 Searing Spear
+1 Smash to Smithereens
 
 //3cc
-1 Char
-1 Staggershock
-1 Hammer of Purphoros
-1 Arc Lightning
-1 Flames of the Firebrand
 1 Act of Treason
+1 Arc Lightning
+1 Char
+1 Flames of the Firebrand
+1 Hammer of Purphoros
 1 Molten Rain
+1 Staggershock
 
 //4cc
 1 Flame Javelin
@@ -380,61 +380,61 @@
 //Creatures
 
 //1cc
-1 Llanowar Elves
-1 Fyndhorn Elves
 1 Birds of Paradise
-1 Experiment One
-1 Joraga Treespeaker
-1 Elvish Mystic
 1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Experiment One
+1 Fyndhorn Elves
+1 Joraga Treespeaker
+1 Llanowar Elves
 1 Wasteland Viper
 
 //2cc
+1 Bloom Tender
+1 Devoted Druid
+1 Fauna Shaman
+1 Gaea's Herald
 1 Kazandu Tuskcaller
 1 Mire Boa
 1 River Boa
-1 Wild Mongrel
-1 Vinelasher Kudzu
-1 Fauna Shaman
-1 Bloom Tender
-1 Devoted Druid
 1 Sakura-Tribe Elder
-1 Vine Trellis
-1 Sylvan Caryatid
-1 Gaea's Herald
 1 Silhana Ledgewalker
+1 Sylvan Caryatid
+1 Vine Trellis
+1 Vinelasher Kudzu
+1 Wild Mongrel
 
 //3cc
-1 Loaming Shaman
-1 Viridian Shaman
-1 Ohran Viper
-1 Yavimaya Elder
-1 Carven Caryatid
 1 Boon Satyr
 1 Call of the Herd
+1 Carven Caryatid
+1 Loaming Shaman
+1 Ohran Viper
+1 Viridian Shaman
+1 Yavimaya Elder
 
 //4cc
-1 Brooding Saurian
-1 Vengevine
 1 Blastoderm
-1 Nylea's Emissary
-1 Polukranos, World Eater
-1 Phantom Centaur
+1 Brooding Saurian
 1 Deadbridge Goliath
 1 Forgotten Ancient
+1 Nylea's Emissary
+1 Phantom Centaur
+1 Polukranos, World Eater
+1 Vengevine
 
 //5cc
-1 Nessian Asp
-1 Golgari Grave-Troll
 1 Acidic Slime
-1 Spectral Force
-1 Mitotic Slime
 1 Gigapede
+1 Golgari Grave-Troll
+1 Mitotic Slime
 1 Mycoloth
+1 Nessian Asp
+1 Spectral Force
 
 //6cc
-1 Rampaging Baloths
 1 Avenger of Zendikar
+1 Rampaging Baloths
 
 //7cc
 1 Giant Adephage
@@ -442,8 +442,8 @@
 //Spells
 
 //1cc
-1 Worldly Tutor
 1 Nature's Claim
+1 Worldly Tutor
 
 //2cc
 1 Edge of Autumn
@@ -453,14 +453,14 @@
 
 //3cc
 1 Feral Invocation
-1 Krosan Tusker
 1 Harrow
 1 Kodama's Reach
+1 Krosan Tusker
 
 //4cc
 1 Garruk Wildspeaker
-1 Summoner's Pact
 1 Garruk Wildspeaker
+1 Summoner's Pact
 
 //Lands
 
@@ -471,176 +471,176 @@
 //Multicolored
 
 //UW
-1 Deputy of Acquittals
-1 New Prahv Guildmage
-1 Lyev Skyknight
-1 Ascended Lawmage
-1 Godhead of Awe
-1 Daxos of Meletis
-1 Azorius Chancery
-1 Nimbus Maze
 1 Adarkar Wastes
+1 Ascended Lawmage
+1 Azorius Chancery
+1 Daxos of Meletis
+1 Deputy of Acquittals
+1 Godhead of Awe
 1 Hallowed Fountain
+1 Lyev Skyknight
+1 New Prahv Guildmage
+1 Nimbus Maze
 
 //UB
-1 Dimir Doppelganger
 1 Bane Alley Broker
-1 Sphinx Summoner
+1 Dimir Aqueduct
+1 Dimir Doppelganger
+1 Drowned Catacomb
 1 Psychic Intrusion
+1 River of Tears
 1 Shipwreck Singer
 1 Soul Ransom
-1 Dimir Aqueduct
-1 Drowned Catacomb
-1 River of Tears
+1 Sphinx Summoner
 1 Temple of Deceit
 
 //BR
-1 Rakdos Cackler
-1 Rix Maadi Guildmage
-1 Lyzolda, the Blood Witch
-1 Tymaret, the Murder King
-1 Rakdos, Lord of Riots
-1 Murderous Redcap
+1 Blood Crypt
 1 Dreadbore
-1 Void
 1 Graven Cairns
 1 Lavaclaw Reaches
+1 Lyzolda, the Blood Witch
+1 Murderous Redcap
+1 Rakdos Cackler
+1 Rakdos, Lord of Riots
+1 Rix Maadi Guildmage
 1 Sulfurous Springs
-1 Blood Crypt
+1 Tymaret, the Murder King
+1 Void
 
 //RG
+1 Boggart Ram-Gang
+1 Clan Defiance
+1 Destructive Revelry
+1 Giant Solifuge
+1 Grove of the Burnwillows
+1 Karplusan Forest
 1 Scab-Clan Mauler
 1 Skarrg Guildmage
-1 Boggart Ram-Gang
-1 Giant Solifuge
-1 Destructive Revelry
-1 Clan Defiance
-1 Karplusan Forest
-1 Grove of the Burnwillows
-1 Temple of Abandon
 1 Stomping Ground
+1 Temple of Abandon
 
 //WG
-1 Vitu-Ghazi Guildmage
-1 Knotvine Paladin
-1 Knight of the Reliquary
-1 Kitchen Finks
-1 Phantom Nishoba
-1 Call of the Conclave
-1 Sundering Growth
 1 Armadillo Cloak
 1 Brushland
+1 Call of the Conclave
 1 Horizon Canopy
+1 Kitchen Finks
+1 Knight of the Reliquary
+1 Knotvine Paladin
 1 Krosan Verge
+1 Phantom Nishoba
+1 Sundering Growth
 1 Sunpetal Grove
+1 Vitu-Ghazi Guildmage
 
 //BW
-1 Sin Collector
-1 Kingpin's Pet
-1 Ghost Council of Orzhova
 1 Alms Beast
-1 One Thousand Lashes
 1 Debtors' Knell
-1 Orzhov Basilica
-1 Temple of Silence
-1 Marsh Flats
+1 Ghost Council of Orzhova
 1 Godless Shrine
+1 Kingpin's Pet
+1 Marsh Flats
+1 One Thousand Lashes
+1 Orzhov Basilica
+1 Sin Collector
+1 Temple of Silence
 
 //UR
-1 Frostburn Weird
-1 Nivix Guildmage
 1 Dominus of Fealty
-1 Niv-Mizzet, Dracogenius
+1 Frostburn Weird
+1 Izzet Boilerworks
+1 Izzet Boilerworks
 1 Izzet Charm
+1 Niv-Mizzet, Dracogenius
+1 Nivix Guildmage
 1 Steam Augury
-1 Izzet Boilerworks
-1 Izzet Boilerworks
-1 Temple of Epiphany
 1 Steam Vents
+1 Temple of Epiphany
 
 //BG
-1 Korozda Guildmage
 1 Dreg Mangler
-1 Grave-Shell Scarab
-1 Sisters of Stone Death
 1 Golgari Charm
-1 Putrefy
 1 Golgari Rot Farm
 1 Golgari Rot Farm
-1 Svogthos, the Restless Tomb
+1 Grave-Shell Scarab
+1 Korozda Guildmage
 1 Overgrown Tomb
+1 Putrefy
+1 Sisters of Stone Death
+1 Svogthos, the Restless Tomb
 
 //RW
+1 Ajani Vengeant
 1 Akroan Hoplite
 1 Anax and Cymede
-1 Boros Reckoner
-1 Boros Charm
-1 Lightning Helix
-1 Ajani Vengeant
-1 Boros Garrison
 1 Battlefield Forge
-1 Wind-Scarred Crag
+1 Boros Charm
+1 Boros Garrison
+1 Boros Reckoner
+1 Lightning Helix
 1 Temple of Triumph
+1 Wind-Scarred Crag
 
 //UG
-1 Trygon Predator
-1 Plaxcaster Frogling
-1 Mystic Snake
-1 Prophet of Kruphix
-1 Krasis Incubation
 1 Biomass Mutation
+1 Krasis Incubation
+1 Mystic Snake
+1 Plaxcaster Frogling
+1 Prophet of Kruphix
 1 Simic Growth Chamber
-1 Temple of Mystery
-1 Temple of Mystery
 1 Simic Guildgate
+1 Temple of Mystery
+1 Temple of Mystery
+1 Trygon Predator
 
 //Colorless
 
 //Creatures
 
-1 Perilous Myr
-1 Bottle Gnomes
-1 Sickleslicer
-1 Burnished Hart
-1 Etched Oracle
-1 Precursor Golem
-1 Clockwork Hydra
-1 Stuffy Doll
 1 Batterskull
-1 Wurmcoil Engine
-1 Platinum Angel
+1 Bottle Gnomes
+1 Burnished Hart
+1 Clockwork Hydra
 1 Colossus of Akros
+1 Etched Oracle
+1 Perilous Myr
+1 Platinum Angel
+1 Precursor Golem
+1 Sickleslicer
+1 Stuffy Doll
+1 Wurmcoil Engine
 
 //Equipment
 
-1 Trusty Machete
 1 Fireshrieker
 1 Loxodon Warhammer
 1 Quietus Spike
 1 Ronin Warclub
 1 Tatsumasa, the Dragon's Fang
+1 Trusty Machete
 
 //Utilities
 
-1 Pithing Needle
 1 Black Vise
-1 Sensei's Divining Top
 1 Culling Scales
 1 Elkin Bottle
-1 Mimic Vat
 1 Grafted Skullcap
+1 Mimic Vat
+1 Pithing Needle
+1 Sensei's Divining Top
 
 //Mana, Fixing, and Lands
-1 Expedition Map
 1 Chromatic Star
-1 Prismatic Lens
+1 Desert
+1 Dread Statuary
+1 Evolving Wilds
+1 Expedition Map
+1 Gemstone Mine
+1 Ghost Quarter
 1 Mind Stone
 1 Molten Slagheap
-1 Shimmering Grotto
-1 Evolving Wilds
-1 Terramorphic Expanse
-1 Dread Statuary
-1 Ghost Quarter
-1 Desert
-1 Gemstone Mine
+1 Prismatic Lens
 1 Rogue's Passage
+1 Shimmering Grotto
+1 Terramorphic Expanse
