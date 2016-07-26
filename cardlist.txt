@@ -139,7 +139,6 @@
 //Spells
 
 //1cc
-1 Ancestral Vision
 1 Brainstorm
 1 Force Spike
 1 Mystical Tutor
@@ -180,6 +179,9 @@
 //6cc
 1 Draining Whelk
 1 Sea God's Revenge
+
+//8cc
+1 Treasure Cruise
 
 //Xcc
 1 Spell Burst
